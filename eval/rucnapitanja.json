@@ -1,0 +1,112 @@
+[
+  {
+    "pitanje": "Tko je dužan plaćati turističku pristojbu?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "4"
+  },
+  {
+    "pitanje": "Koje osobe uopće ne moraju plaćati turističku pristojbu?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "5"
+  },
+  {
+    "pitanje": "Tko plaća samo pola turističke pristojbe?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "6"
+  },
+  {
+    "pitanje": "Kako iznajmljivač u domaćinstvu plaća pristojbu, po krevetu ili po noćenju?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "12"
+  },
+  {
+    "pitanje": "Do kada moram uplatiti paušal turističke pristojbe?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "17"
+  },
+  {
+    "pitanje": "Tko određuje koliko iznosi turistička pristojba u mom mjestu?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "15"
+  },
+  {
+    "pitanje": "Kolika je kazna ako ne platim turističku pristojbu?",
+    "zakon": "Zakon o turističkoj pristojbi",
+    "clanak": "26"
+  },
+  {
+    "pitanje": "Koliko najviše soba i kreveta smijem iznajmljivati u domaćinstvu?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "30"
+  },
+  {
+    "pitanje": "Može li strani državljanin iznajmljivati apartman u domaćinstvu?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "30"
+  },
+  {
+    "pitanje": "Smijem li gostima uz smještaj posluživati i doručak?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "30"
+  },
+  {
+    "pitanje": "Moram li gostu izdati račun i istaknuti cijene u apartmanu?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "32"
+  },
+  {
+    "pitanje": "Moram li voditi popis gostiju koji kod mene borave?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "32"
+  },
+  {
+    "pitanje": "Tko mi izdaje rješenje da smijem iznajmljivati u domaćinstvu?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "34"
+  },
+  {
+    "pitanje": "Mora li moj apartman ispunjavati uvjete za kategoriju?",
+    "zakon": "Zakon o ugostiteljskoj djelatnosti",
+    "clanak": "31"
+  },
+  {
+    "pitanje": "Moram li cijene svojih turističkih usluga objaviti na hrvatskom jeziku?",
+    "zakon": "Zakon o pružanju usluga u turizmu",
+    "clanak": "6"
+  },
+  {
+    "pitanje": "Koliko voditelja poslova mora imati turistička agencija?",
+    "zakon": "Zakon o pružanju usluga u turizmu",
+    "clanak": "16"
+  },
+  {
+    "pitanje": "Može li poljoprivrednik nuditi turističke usluge na svom gospodarstvu?",
+    "zakon": "Zakon o pružanju usluga u turizmu",
+    "clanak": "66"
+  },
+  {
+    "pitanje": "Koje se sve djelatnosti smatraju uslugama u turizmu?",
+    "zakon": "Zakon o pružanju usluga u turizmu",
+    "clanak": "4"
+  },
+  {
+    "pitanje": "Tko su obvezni članovi lokalne turističke zajednice?",
+    "zakon": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+    "clanak": "29"
+  },
+  {
+    "pitanje": "Koja su tijela turističke zajednice?",
+    "zakon": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+    "clanak": "13"
+  },
+  {
+    "pitanje": "Čime se sve bavi lokalna turistička zajednica?",
+    "zakon": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+    "clanak": "32"
+  },
+  {
+    "pitanje": "Smije li turistička zajednica obavljati gospodarsku djelatnost?",
+    "zakon": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+    "clanak": "10"
+  }
+]
